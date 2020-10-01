@@ -1,6 +1,25 @@
 # Poc_v1
-This project customize the client's insurance based on their needs
-Requirement:
-1.back-end and front-end seperation.
-2.back-end technical stack: SpringBoot + OAuth + Oracle + RabbitMQ
-3.front-end technical stack: Angular
+New version of insurance system. 
+This project customize the client's insurance based on their needs. 
+
+Business requirements and limitation:  
+1.This system should support up to 500,000 product.  
+2.Web portal should support desired growth for an increase in operations up to 50% in 5 years.  
+3.Support transaction in the future.  
+
+System requirements Summary:  
+1. Account Management : individual accounts, agency accounts.  
+2. Order Management. 
+3. Personalization. 
+4. Live Chat. 
+5. Product Catalog.  
+6. Search. 
+7. Promotions. 
+8. Insurance Comparison.  
+9. Checkout/ Payment. 
+
+
+Technical Requirement:  
+1.back-end and front-end seperation.  
+2.back-end technical stack: SpringBoot + OAuth + Oracle + RabbitMQ. 
+3.front-end technical stack: Angular. 
