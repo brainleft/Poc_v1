@@ -1,4 +1,5 @@
 # Poc_v1
+
 New version of insurance system. 
 This project customize the client's insurance based on their needs. 
 
@@ -8,15 +9,23 @@ Business requirements and limitation:
 3.Support transaction in the future.  
 
 System requirements Summary:  
-1. Account Management. -- individual accounts, agency accounts.  
-2. Order Management. -- including shipping and dynamically route orders(based on the business rule)
-3. Personalization. -- Visulization tools of summary. 
-4. Live Chat.  -- corporate with health organization, online doctor.
+1. Account Management. 
+    -- individual accounts, agency accounts.  
+2. Order Management. 
+    -- including shipping.
+    -- dynamically route orders(based on the business rule)
+3. Personalization. 
+    -- Visulization tools of summary. 
+4. Live Chat.  
+    -- corporate with health organization, online doctor.
 5. Product Catalog.  
-6. Search. -- ElasticSearch.
-7. Promotions. -- best price guarantee based on their individual/ corporate entities.
+6. Search. 
+    -- require quick mathch *ElasticSearch.
+7. Promotions. 
+    -- best price guarantee based on their individual/ corporate entities.
 8. Insurance Comparison.  
-9. Checkout/ Payment. -- third party (ex. palpay, credit card)
+9. Checkout/ Payment. 
+   -- third party (ex. palpay, credit card)
 
 
 Technical Requirement:  
